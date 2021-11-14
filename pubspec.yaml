@@ -1,0 +1,9 @@
+name: aria2_rpc
+description: Aria2 JSON-RPC interface Dart bindings
+
+environment:
+  sdk: '>=2.15.0-82.0.dev <3.0.0'
+
+dependencies: 
+  json_rpc_2: ^3.0.1
+  web_socket_channel: ^2.1.0
